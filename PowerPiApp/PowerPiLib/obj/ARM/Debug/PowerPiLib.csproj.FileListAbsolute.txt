@@ -1,0 +1,17 @@
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\bin\ARM\Debug\PowerPiLib.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\bin\ARM\Debug\PowerPiLib.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\bin\ARM\Debug\PowerPiLib.pri
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\PowerPiLib.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\PowerPiLib.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\PowerPiLib.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\priconfig.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\layout.resfiles
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\resources.resfiles
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\pri.resfiles
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\qualifiers.txt
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PowerPiApp\PowerPiLib\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
